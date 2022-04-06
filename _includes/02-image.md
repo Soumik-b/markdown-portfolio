@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is an image of a meme I found on the internet cause my life's a meme] (https://cdn.dopl3r.com//media/memes_files/google-how-old-is-earth-all-images-shopping-news-earth-age-4543-billion-years-age-of-earth-google-how-long-do-milky-way-live-news-images-videos-all-milky-way-lifespan-milky-way-1-2-years-VlGkb.jpg)
